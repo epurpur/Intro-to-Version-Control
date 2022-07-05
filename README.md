@@ -1,12 +1,7 @@
-# Intro-to-Version-Control
-
-
-
 
 ```
 -Last updated 05-July-2022
 ```
-
 
 # UVA Library Workshop on Introduction to Version Control and Git/Github
 
