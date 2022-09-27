@@ -8,7 +8,7 @@
 
 ## About Me
 * Erich Purpur: I am a Research Librarian for Science & Engineering in the Brown Science & Engineering Library. I've been at UVA for about 5 years
-* ep9k@virginia.edu
+* epurpur@virginia.edu
 
 ## Data Resources in the UVA Library
 * [Research Data Services](https://data.library.virginia.edu/)
