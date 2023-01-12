@@ -7,9 +7,4 @@ def subtract(a, b):
 def multiply(a, b):
     return a * b
 
-def divide(a, b):
-    return a/b
-
-def newFunction(a, b):
-    return a + b +10
 
