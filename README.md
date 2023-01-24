@@ -1,19 +1,31 @@
 
 ```
--Last updated 12-January-2023
+-Last updated 23-January-2023
 ```
 
 # UVA Library Workshop on Introduction to Version Control and Git/Github
 
 
 ## About Me
-* Erich Purpur: I am a Research Librarian for Science & Engineering in the Brown Science & Engineering Library. I've been at UVA for about 5 years
+* Erich Purpur: I am a Research Librarian for Science & Engineering in the Brown Science & Engineering Library. I've been at UVA since 2017.
 * epurpur@virginia.edu
 
 ## Data Resources in the UVA Library
 * [Research Data Services](https://data.library.virginia.edu/)
 * [Workshop Series](https://data.library.virginia.edu/training/)
 
+## Other Upcoming Workshops
+
+| Workshop | Date | Time |
+| ---- | ---- | ---- |
+| Intro to Version Control w/ Git + Github                        |       Wednesday 1/25   |  10:00 - 11:30
+| Intro to Python                                                 |       Wednesday 2/1    |  12:00 - 1:30
+| Intro to Regular Expressions                                    |       Wednesday 2/8    |  10:00 - 11:30
+| Data Analysis in Python with Matplotlib and Pandas              |       Wednesday 2/8    |  10:00 - 11:30
+| Python Natural Language Processing / Sentiment Analysis         |       Wednesday 2/15   |  12:00 - 1:30
+| Geospatial Data + Mapping in Python                             |       Wednesday 2/22   |  10:00 - 11:30
+| Python and APIs                                                 |       Wednesday 3/1    |  12:00 - 1:30
+| Python Web Scraping                                             |       Wednesday 3/15   |  12:00 - 1:30
 
 ## Things to have before we begin
 
@@ -208,7 +220,7 @@ git log
 ```
 
 ### Scenario 2: Track an Existing Remote project with Git
-This is probably more likely how you will be using git in reality. Someone, or a group, has probably has written some code that you want to download and use for yourself, make changes to, and develop over time. 
+This is probably more likely how you will be using git in reality. Someone, or a group, has written some code that you want to download and use for yourself, make changes to, and develop over time. 
 
 #### First, fork my repository
 In the top right corner of the screen, click 'fork'. You'll make a copy of my <b><i> git intro </i></b> repository for yourself. We are doing this so that we are not all pushing changes to my remote repository at once, but instead to your own repository.
