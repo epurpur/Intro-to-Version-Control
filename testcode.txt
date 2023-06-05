@@ -10,12 +10,7 @@ def multiply(a, b):
 def exponent(a, b):
     return a**b
 
-More new stuff
 
-Extra stuff
-
-
-Dalkjgdaslgkjsd
 
 
 
