@@ -14,18 +14,6 @@
 * [Research Data Services](https://data.library.virginia.edu/)
 * [Workshop Series](https://data.library.virginia.edu/training/)
 
-## Other Upcoming Workshops
-
-| Workshop | Date | Time |
-| ---- | ---- | ---- |
-| Intro to Version Control w/ Git + Github                        |       Wednesday 1/25   |  10:00 - 11:30
-| Intro to Python                                                 |       Wednesday 2/1    |  12:00 - 1:30
-| Intro to Regular Expressions                                    |       Wednesday 2/8    |  10:00 - 11:30
-| Data Analysis in Python with Matplotlib and Pandas              |       Wednesday 2/8    |  10:00 - 11:30
-| Python Natural Language Processing / Sentiment Analysis         |       Wednesday 2/15   |  12:00 - 1:30
-| Geospatial Data + Mapping in Python                             |       Wednesday 2/22   |  10:00 - 11:30
-| Python and APIs                                                 |       Wednesday 3/1    |  12:00 - 1:30
-| Python Web Scraping                                             |       Wednesday 3/15   |  12:00 - 1:30
 
 ## Things to have before we begin
 
