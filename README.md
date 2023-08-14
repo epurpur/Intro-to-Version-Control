@@ -48,19 +48,6 @@
 3. Know how to get help
 
 
-## Second, some terms
-
-* git - version control software installed on your local machine
-* GitHub - a for profit company owned by Microsoft. It provides cloud-based hosting of repositories.
-* GitLab - an alternative to GitHub, not owned by Microsoft ([why you might want to switch](https://about.gitlab.com/2017/07/19/git-wars-switching-to-gitlab/)). "Free software deserves free tools."
-* repository (repo) - Basic unit in git: a record of all changes to specified files.
-* fork - personal copy of another users repo.
-* branch - a parallel version of a repo (main branch is called "main", formerly "master").
-
-[Github's Git Glossary](https://help.github.com/en/articles/github-glossary)
-
-[Github's Git Handbook](https://guides.github.com/introduction/git-handbook/)
-
 ## What is Version Control?
 Version control is the practice of tracking and managing changes to software code. Version control systems are software tools that help software teams manage changes to source code over time. Version control software keeps track of every modification to the code in a special kind of database. If a mistake is made, developers can turn back the clock and compare earlier versions of the code to help fix the mistake while minimizing disruption to all team members.
 
@@ -82,7 +69,21 @@ There are many benefits but some of the key points are:
    * A single source of truth across teams, code, assets
    * Traceability for every change ever made
    * Speed of development. Many collaborators work on code together
-   
+
+
+## Some Terms
+
+* git - version control software installed on your local machine
+* GitHub - a for profit company owned by Microsoft. It provides cloud-based hosting of repositories.
+* GitLab - an alternative to GitHub, not owned by Microsoft ([why you might want to switch](https://about.gitlab.com/2017/07/19/git-wars-switching-to-gitlab/)). "Free software deserves free tools."
+* repository (repo) - Basic unit in git: a record of all changes to specified files.
+* fork - personal copy of another users repo.
+* branch - a parallel version of a repo (main branch is called "main", formerly "master").
+
+[Github's Git Glossary](https://help.github.com/en/articles/github-glossary)
+
+[Github's Git Handbook](https://guides.github.com/introduction/git-handbook/)
+
 
 # Let's Get Started!
 
@@ -392,6 +393,11 @@ This seems like a lot of work but it becomes very fast once you begin to do it e
 
 # Other Resources - Learn More!
 There is a lot more you can do with git/GitHub. We just touched on basic workflow using the command line. There are a whole suite of tools available including using GitHub in the browser, downloading and installing a GUI version of GitHub to your desktop, automations, and so on. We can't possibly cover everything in one workshop but here are some other resources that you can look at if you are in need. 
+
+### ChatGPT
+    * ChapGPT has quickly made huge changes to the programming landscape. It is a hugely powerful tool **If you use it the right way!**. I think it is a somewhat slippery slope of how to advise new programmers to use ChatGPT (or other AI tools) so I will refer to some best practices. My personal opinion is that you should use AI minimally when you are starting. When you have a better grasp of basic fundamentals, then you can include AI and greatly increase your speed. **Never accept ChatGPT code verbatim!** Always double check it before including it in your workflows.
+    * [How to Effectively Learn to Program w/ ChatGPT](https://towardsdatascience.com/how-to-effectively-start-coding-in-the-era-of-chatgpt-cfc5151e1c42)
+    * [Corey Schafer's "How to use ChatGPT"](https://www.youtube.com/watch?v=jRAAaDll34Q)
 
 ### Corey Schafer Youtube
 Corey Schafer is just a guy with a YouTube page. However, when I am learning a new programming skill, tool, library, or concept, I first go to his page to see if he has done a tutorial and he usually has! When I was first learning Git/Github workflow, I constantly referred to his walkthrough video. [Here is a link](https://www.youtube.com/watch?v=HVsySz-h9r4). In fact, when I was preparing this tutorial I basically copied his video as I found it very easy to follow and did not think I could do it any better.
