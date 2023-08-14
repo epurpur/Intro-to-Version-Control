@@ -1,6 +1,6 @@
 
 ```
--Last updated 5-June-2023
+-Last updated 14-August-2023
 ```
 
 # UVA Library Workshop on Introduction to Version Control and Git/Github
@@ -14,6 +14,18 @@
 * [Research Data Services](https://data.library.virginia.edu/)
 * [Workshop Series](https://data.library.virginia.edu/training/)
 
+## Other Upcoming Workshops
+
+| Workshop | Date | Time |
+| ---- | ---- | ---- |
+| Intro to Python pt 1                                                |       Tuesday 8/29   |  12:00 - 1:30pm
+| Intro to Python pt 2                                                |       Tuesday 9/5    |  12:00 - 1:30pm
+| Intro to Version Control w/ Git + Github                            |       Wednesday 9/6  |  1:00 - 2:30pm
+| Python Data Analysis + Visualization                                |       Tuesdady 9/12  |  12:00 - 1:30pm
+| Intro to Regular Expressions                                        |       Wednesday 9/13 |  1:00 - 2:30pm
+| Python and APIs                                                     |       Tuesday 9/19   |  12:00 - 1:30pm
+| Geospatial Data + Mapping in Python                                 |       Tuesday 9/26   |  12:00 - 1:30pm
+| Python Web Dashboards w/ Streamlit                                  |       Tuesday 10/10  |  12:00 - 1:30pm
 
 ## Things to have before we begin
 
