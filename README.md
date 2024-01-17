@@ -6,7 +6,8 @@
 # UVA Library Workshop on Introduction to Version Control and Git/Github
 
 ### Link to recording of this workshop
-- [Click Here](https://www.youtube.com/watch?v=z4kleIVMpq4)
+- [View on PanOpto](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=72faa697-d22b-420e-8c90-b0f9010bc03c)
+- [View on Youtube](https://www.youtube.com/watch?v=z4kleIVMpq4)
 
 
 ## About Me
