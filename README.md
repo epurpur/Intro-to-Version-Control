@@ -5,6 +5,9 @@
 
 # UVA Library Workshop on Introduction to Version Control and Git/Github
 
+### Link to recording of this workshop
+- [Click Here](https://www.youtube.com/watch?v=z4kleIVMpq4)
+
 
 ## About Me
 * Erich Purpur: I am a Research Librarian for Science & Engineering in the Brown Science & Engineering Library. I've been at UVA since 2017.
